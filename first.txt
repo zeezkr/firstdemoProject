@@ -2,3 +2,4 @@ hi, this is first.txt file.
 
 changes occur
 
+new changes occur
